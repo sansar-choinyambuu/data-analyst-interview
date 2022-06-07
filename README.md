@@ -16,7 +16,7 @@ finish.
 * Allowed: Everything!
 * Required on your side:
   * Any unix shell [bash, sh, zsh]
-  * (_Python_) Python > 3
+  * Python > 3
   * Pandas
   * Git > 2.0
   * Video conferencing tool (Microsoft teams or otherwise)
@@ -44,7 +44,7 @@ Use git to clone the repository from [GitHub `sansar-choinyambuu/data-analyst-in
 - Copy [template.py](./template.py) and rename it to [task.py](./task.py)
 - Add execute permission to [task.py](./task.py)
 
-### Task 2 (python, pandas)
+### Task 3 (python, pandas)
 
 Resolve the TODOs in:
 * (_Python_) [task.py](./task.py)
