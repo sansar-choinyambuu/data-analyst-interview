@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # TODO 1: complete the code so that it runs
-# TODO 2: add type hints for read_csv method
+# TODO 2: add type hints for read_csv function
 # TODO 3: export only Swiss cities as parquet file
 
 
